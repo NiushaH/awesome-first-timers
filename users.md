@@ -523,3 +523,7 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: NiushaH  
+  Bio: Newbie Web Developer  
+  GitHub: [niushah](https://github.com/niushah)  
